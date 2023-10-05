@@ -1,5 +1,5 @@
-php artisan migrate
-php artisan db:seed
+#php artisan migrate
+#php artisan db:seed
 
-email:admin@gmail.com
-pass:123
+#email:admin@gmail.com
+#pass:123
